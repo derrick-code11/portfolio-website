@@ -1,4 +1,4 @@
-import projectData from "../projects.json";
+import projectData from "/projects.json";
 import { MdKeyboardDoubleArrowDown } from "react-icons/md";
 import Project from "./Project";
 import { Swiper, SwiperSlide } from "swiper/react";

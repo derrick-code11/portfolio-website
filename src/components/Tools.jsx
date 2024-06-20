@@ -1,5 +1,5 @@
 import { IoIosCheckmarkCircle } from "react-icons/io";
-import ToolsData from "../tools-frameworks.json";
+import ToolsData from "/tools-frameworks.json";
 import "../styles/tool-lang.css";
 
 const Tools = () => {
