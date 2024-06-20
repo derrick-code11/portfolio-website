@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Python",
+    "level": "Experienced"
+  },
+  {
+    "id": 2,
+    "name": "Java",
+    "level": "Intermediate"
+  },
+  {
+    "id": 3,
+    "name": "Javascript",
+    "level": "Intermediate"
+  },
+  {
+    "id": 4,
+    "name": "Go",
+    "level": "Intermediate"
+  },
+  {
+    "id": 5,
+    "name": "C",
+    "level": "Basic"
+  },
+  {
+    "id": 6,
+    "name": "R",
+    "level": "Familiar"
+  }
+]
