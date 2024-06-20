@@ -1,4 +1,4 @@
-import IMG from "../assets/profile-pic.png";
+import IMG from "/assets/profile-pic.png";
 import Socials from "./Socials";
 import "../styles/Profile.css"
 

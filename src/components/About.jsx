@@ -1,4 +1,4 @@
-import aboutProfilePic from "../assets/about-pic.png";
+import aboutProfilePic from "/assets/about-pic.png";
 import { MdKeyboardDoubleArrowDown } from "react-icons/md";
 import Details from "./Details";
 import "../styles/About.css";

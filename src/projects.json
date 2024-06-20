@@ -1,28 +1,28 @@
 [
   {
     "id": 0,
-    "media": "src/assets/realm-of-steel.png",
+    "media": "./assets/realm-of-steel.png",
     "name": "Realm Of Steel",
     "github-link": "https://github.com/derrick-code11/Realm-Of-Steel",
     "demo-link": "https://realm-of-steel01.netlify.app/ "
   },
   {
     "id": 1,
-    "media": "src/assets/blackscipioneers.png",
+    "media": "./assets/blackscipioneers.png",
     "name": "BlackSciPioneers",
     "github-link": "https://github.com/derrick-code11/BlackSciPioneers",
     "demo-link": "https://blacksci.netlify.app/"
   },
   {
     "id": 2,
-    "media": "src/assets/forestfiresim.png",
+    "media": "./assets/forestfiresim.png",
     "name": "Forest Fire Simulation",
     "github-link": "https://github.com/derrick-code11/ForestFireSim-22",
     "demo-link": ""
   },
   {
     "id": 3,
-    "media": "src/assets/coming-soon.png",
+    "media": "./assets/coming-soon.png",
     "name": "Coming Soon",
     "github-link": "https://github.com/derrick-code11/",
     "demo-link": ""
@@ -30,7 +30,7 @@
 
   {
     "id": 4,
-    "media": "src/assets/coming-soon.png",
+    "media": "./assets/coming-soon.png",
     "name": "Coming Soon",
     "github-link": "https://github.com/derrick-code11/",
     "demo-link": ""
@@ -38,7 +38,7 @@
 
   {
     "id": 5,
-    "media": "src/assets/coming-soon.png",
+    "media": "./assets/coming-soon.png",
     "name": "Coming Soon",
     "github-link": "https://github.com/derrick-code11/",
     "demo-link": ""

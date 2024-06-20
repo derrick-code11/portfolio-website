@@ -1,5 +1,5 @@
 import { IoIosCheckmarkCircle } from "react-icons/io";
-import LangData from "/prog-lang.json";
+import LangData from "../prog-lang.json";
 import "../styles/tool-lang.css";
 
 const Languages = () => {
