@@ -1,0 +1,22 @@
+.skill-sub-title {
+  color: rgb(85, 85, 85);
+  font-weight: 600;
+  font-size: 1.75rem;
+  margin-bottom: 2rem;
+}
+
+.article-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2.5rem;
+  justify-content: space-around;
+  text-align: initial;
+}
+
+article {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  width: 100%; 
+}
+

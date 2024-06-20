@@ -1,0 +1,15 @@
+.socials-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    gap: 1rem;
+  }
+
+  .socials-container a {
+    cursor: pointer;
+    font-size: 30px;
+  }
+
+  .socials-container .linkedin{
+    color:#1666C2;
+  }
