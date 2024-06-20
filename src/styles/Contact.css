@@ -2,7 +2,8 @@
   display: flex;
   justify-content: center;
   flex-direction: column;
-  height: 70vh;
+  height: 75vh;
+  margin-top: 12rem;
 }
 
 .contact-info-upper-container {
