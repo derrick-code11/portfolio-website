@@ -15,7 +15,7 @@ const Skills = () => {
             <Tools></Tools>
           </div>
         </div>
-        <a href="#projects">
+        <a className="arrow" href="#projects">
           <MdKeyboardDoubleArrowDown />
         </a>
       </section>

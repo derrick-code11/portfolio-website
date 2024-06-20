@@ -20,7 +20,7 @@ const About = () => {
           <Details></Details>
         </div>
 
-        <a href="#skills">
+        <a className="arrow" href="#skills">
           <MdKeyboardDoubleArrowDown />
         </a>
       </section>

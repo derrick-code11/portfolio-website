@@ -22,7 +22,7 @@ const Projects = () => {
             ))}
           </div>
         </div>
-        <a href="#contact">
+        <a className="arrow" href="#contact">
           <MdKeyboardDoubleArrowDown />
         </a>
       </section>

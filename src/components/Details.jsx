@@ -27,12 +27,21 @@ const Details = () => {
         </div>
         <div className="text-container">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-            reprehenderit et laborum, rem, dolore eum quod voluptate
-            exercitationem nobis, nihil esse debitis maxime facere minus sint
-            delectus velit in eos quo officiis explicabo deleniti dignissimos.
-            Eligendi illum libero dolorum cum laboriosam corrupti quidem,
-            reiciendis ea magnam? Nulla, impedit fuga!
+            Greetings! 👋 I'm Derrick, a passionate computer
+            science student at Colby College, pursuing a Bachelor of
+            Arts degree, set to graduate in May 2026. 🎓 My tech journey is
+            fueled by an insatiable love for problem-solving and creating
+            impactful solutions through code. 💻🚀 Beyond coding, I'm an active
+            member of the Colby Hackers Club, where I've participated in several
+            hackathons, building innovative products. 🏆🔧 Additionally, I
+            mentor middle school students in the WJHS Coding Club, introducing
+            them to the fascinating world of computer science concepts. 👨‍🏫📚
+            When I'm not immersed in coding or mentoring, I enjoy exploring new
+            places, meeting new people, and embracing diverse cultures. 🌍✈️🤝 I
+            also have a passion for soccer, both playing on the field and in the
+            FIFA video game during my free time. ⚽🎮 It's a great way to unwind
+            and recharge. Thank you for taking the time to read this, and I look
+            forward to connecting with you! 😊🤝
           </p>
         </div>
       </div>

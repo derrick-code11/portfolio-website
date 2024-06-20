@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
-import '../styles/Hamburger.css';
+import "../styles/Hamburger.css";
 
 const Hamburger = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -23,8 +23,8 @@ const Hamburger = () => {
             </a>
           </li>
           <li>
-            <a href="#experience" onClick={toggleMenu}>
-              Experience
+            <a href="#skills" onClick={toggleMenu}>
+              Skills
             </a>
           </li>
           <li>

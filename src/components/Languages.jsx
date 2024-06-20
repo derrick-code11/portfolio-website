@@ -6,7 +6,7 @@ const Languages = () => {
   return (
     <>
       <div className="details-container">
-        <h2 className="skill-sub-title">Languages</h2>
+        <h2 className="skill-sub-title">Programming Languages</h2>
         <div className="article-container">
           {LangData.map((lang) => (
             <article key={lang.id}>
