@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Linux",
+    "level": "Familiar"
+  },
+  {
+    "id": 2,
+    "name": "React JS",
+    "level": "Intermediate"
+  },
+  {
+    "id": 3,
+    "name": "HTML5",
+    "level": "Experienced"
+  },
+  {
+    "id": 4,
+    "name": "CSS3",
+    "level": "Intermediate"
+  },
+  {
+    "id": 5,
+    "name": "Tailwindcss",
+    "level": "Intermediate"
+  },
+  {
+    "id": 6,
+    "name": "Bootstrap",
+    "level": "Intermediate"
+  },
+  {
+    "id": 7,
+    "name": "Node JS",
+    "level": "Intermediate"
+  },
+  {
+    "id": 8,
+    "name": "MongoDB",
+    "level": "Intermediate"
+  },
+  {
+    "id": 9,
+    "name": "MySQL",
+    "level": "Basic"
+  },
+  {
+    "id": 10,
+    "name": "SQL",
+    "level": "Intermediate"
+  },
+  {
+    "id": 11,
+    "name": "WordPress",
+    "level": "Familiar"
+  },
+  {
+    "id": 12,
+    "name": "Git",
+    "level": "Familiar"
+  }
+]
