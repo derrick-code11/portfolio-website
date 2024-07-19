@@ -22,10 +22,10 @@
   },
   {
     "id": 3,
-    "media": "./assets/coming-soon.png",
-    "name": "Coming Soon",
-    "github-link": "https://github.com/derrick-code11/",
-    "demo-link": ""
+    "media": "./assets/snap-summer.webp",
+    "name": "SnapSummer",
+    "github-link": "https://github.com/derrick-code11/snap-summer",
+    "demo-link": "https://snap-summer.netlify.app/"
   },
 
   {
