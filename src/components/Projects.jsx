@@ -14,7 +14,7 @@ const Projects = () => {
 <>
       <section id="projects">
         <p className="section__text__p1">Browse My Recent</p>
-        <h1 className="title">Projects</h1>
+        <h1 className="project-Title title">Projects</h1>
         <div className="skills-details-container">
           <div className="about-containers">
             <Swiper
@@ -49,7 +49,7 @@ const Projects = () => {
                 </SwiperSlide>
               ))}
 
-              <div className="slider-controler">
+              <div className="slider-controler swip">
                 <div className="swiper-button-prev slider-arrow">
                   <ion-icon name="arrow-back-outline"></ion-icon>
                 </div>

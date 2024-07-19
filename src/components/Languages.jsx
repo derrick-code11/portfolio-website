@@ -5,7 +5,7 @@ import "../styles/tool-lang.css";
 const Languages = () => {
   return (
     <>
-      <div className="details-container">
+      <div className="details-container lang">
         <h2 className="skill-sub-title">Programming Languages</h2>
         <div className="article-container">
           {LangData.map((lang) => (

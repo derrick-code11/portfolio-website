@@ -20,7 +20,7 @@ const Contact = () => {
           <div className="contact-info-container">
             <a
               className="linkedin"
-              href="https://www.linkedin.com/in/derrick-agyemang-duah/"
+              href="https://www.linkedin.com"
               target="_blank"
               rel="noopener noreferrer"
             >

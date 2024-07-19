@@ -1,21 +1,24 @@
 import IMG from "/assets/profile-pic.png";
 import Socials from "./Socials";
-import "../styles/Profile.css"
-
+import "../styles/Profile.css";
 
 const Profile = () => {
   const handleDownloadResume = () => {
-    window.open('https://www.linkedin.com/in/derrick-agyemang-duah/', '_blank');
+    window.open("https://www.linkedin.com/in/derrick-agyemang-duah", "_blank");
   };
 
   const handleContactInfo = () => {
-    window.location.href = '#contact';
+    window.location.href = "#contact";
   };
 
   return (
     <section className="profile">
       <div className="section__pic-container">
-        <img className="home-profile" src={IMG} alt="Derrick's profile picture" />
+        <img
+          className="home-profile"
+          src={IMG}
+          alt="Derrick's profile picture"
+        />
       </div>
       <div className="section__text">
         <p className="section__text__p1">Hello, I'm</p>
@@ -36,4 +39,3 @@ const Profile = () => {
 };
 
 export default Profile;
-
