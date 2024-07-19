@@ -8,11 +8,11 @@
 }
 
 .color-container .article-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;     
-    height: 100%;            
-  }
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
 
 .project-img {
   border-radius: 2rem;
@@ -29,4 +29,22 @@
 .project-btn {
   color: black;
   border-color: rgb(163, 163, 163);
+}
+
+
+
+@media only screen and (max-width: 767px) {
+  .color-container {
+    width: 80vw;
+    position: relative;
+    left: 10vw;
+  }
+
+  .project-img {
+    height: 300px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  
 }

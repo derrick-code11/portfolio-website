@@ -1,15 +1,38 @@
 #skills {
   position: relative;
 }
+
 #skills a {
-    position: absolute;
-    right: -6rem;
-    bottom: 2.3rem;
-    font-size: 2.5rem;
-  }
+  position: absolute;
+  right: -6rem;
+  bottom: 2.3rem;
+  font-size: 2.5rem;
+}
 
 .skills-details-container {
   display: flex;
   justify-content: center;
   flex-direction: column;
+}
+
+
+@media only screen and (max-width: 767px) {
+  #skills {
+    flex-direction: column;
+    align-items: center;
+    top: 500px;
+    margin-bottom: 50px;
+  }
+  .skills-details-container{
+    position: relative;
+    right: 31vw;
+    width: 40px;
+    top: 5vh;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  #skills{
+    margin-top: 200px !important;
+  }
 }

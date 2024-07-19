@@ -10,3 +10,46 @@
 }
 
 
+
+@media only screen and (max-width: 767px) {
+  body {
+    overflow-x: hidden;
+  }
+
+  #projects {
+    top: 900px;
+    margin-bottom: 150px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  .project-Title{
+    position: relative;
+    right: 30px;
+  }
+
+  .about-containers {
+    width: 100vw;
+  }
+
+  .swiper_container {
+    width: 120vw;
+    height: 20vh;
+  }
+
+  .swip {
+    position: relative;
+    top: -15vh;
+    z-index: 9999999;
+    margin-bottom: 30px;
+  }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  #projects{
+    margin-top: 300px;
+  }
+
+}
